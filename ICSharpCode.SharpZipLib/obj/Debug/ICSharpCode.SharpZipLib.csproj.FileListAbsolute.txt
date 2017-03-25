@@ -1,0 +1,16 @@
+D:\C#\icsharpcode-SharpZipLib-41c14c5\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\C#\icsharpcode-SharpZipLib-41c14c5\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\C#\icsharpcode-SharpZipLib-41c14c5\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\C#\icsharpcode-SharpZipLib-41c14c5\bin\Debug\ICSharpCode.SharpZipLib.dll.CodeAnalysisLog.xml
+D:\C#\icsharpcode-SharpZipLib-41c14c5\bin\Debug\ICSharpCode.SharpZipLib.dll.lastcodeanalysissucceeded
+D:\C#\icsharpcode-SharpZipLib-41c14c5\ICSharpCode.SharpZipLib\obj\Debug\ICSharpCode.SharpZipLib.csprojResolveAssemblyReference.cache
+D:\C#\icsharpcode-SharpZipLib-41c14c5\ICSharpCode.SharpZipLib\obj\Debug\ICSharpCode.SharpZipLib.dll
+D:\C#\icsharpcode-SharpZipLib-41c14c5\ICSharpCode.SharpZipLib\obj\Debug\ICSharpCode.SharpZipLib.pdb
+D:\C#\Projects\UnpackApkAssetsTool\ICSharpCode.SharpZipLib\obj\Debug\ICSharpCode.SharpZipLib.csprojResolveAssemblyReference.cache
+D:\C#\Projects\UnpackApkAssetsTool\ICSharpCode.SharpZipLib\obj\Debug\ICSharpCode.SharpZipLib.dll
+D:\C#\Projects\UnpackApkAssetsTool\ICSharpCode.SharpZipLib\obj\Debug\ICSharpCode.SharpZipLib.pdb
+D:\C#\Projects\UnpackApkAssetsTool\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\C#\Projects\UnpackApkAssetsTool\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\C#\Projects\UnpackApkAssetsTool\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\C#\Projects\UnpackApkAssetsTool\bin\Debug\ICSharpCode.SharpZipLib.dll.CodeAnalysisLog.xml
+D:\C#\Projects\UnpackApkAssetsTool\bin\Debug\ICSharpCode.SharpZipLib.dll.lastcodeanalysissucceeded

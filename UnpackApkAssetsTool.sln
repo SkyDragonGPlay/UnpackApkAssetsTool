@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnpackApkAssetsTool", "UnpackApkAssetsTool\UnpackApkAssetsTool.csproj", "{97D93639-0E4E-44AD-8EBA-EB4BB7799251}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICSharpCode.SharpZipLib", "ICSharpCode.SharpZipLib\ICSharpCode.SharpZipLib.csproj", "{0E7413FF-EB9E-4714-ACF2-BE3A6A7B2FFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZipFilesTool", "ZipFilesTool\ZipFilesTool.csproj", "{F62625EF-5B33-417F-8277-21A339DD4EE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97D93639-0E4E-44AD-8EBA-EB4BB7799251}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97D93639-0E4E-44AD-8EBA-EB4BB7799251}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97D93639-0E4E-44AD-8EBA-EB4BB7799251}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97D93639-0E4E-44AD-8EBA-EB4BB7799251}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E7413FF-EB9E-4714-ACF2-BE3A6A7B2FFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E7413FF-EB9E-4714-ACF2-BE3A6A7B2FFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E7413FF-EB9E-4714-ACF2-BE3A6A7B2FFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E7413FF-EB9E-4714-ACF2-BE3A6A7B2FFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F62625EF-5B33-417F-8277-21A339DD4EE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F62625EF-5B33-417F-8277-21A339DD4EE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F62625EF-5B33-417F-8277-21A339DD4EE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F62625EF-5B33-417F-8277-21A339DD4EE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
